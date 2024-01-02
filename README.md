@@ -1,4 +1,4 @@
-# Hi! My name is Michael
+# Hi! My name is Michael.
 
 ### I am a researcher interested in:
 
