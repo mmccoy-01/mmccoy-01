@@ -1,4 +1,6 @@
-Hi! My name is Michael, and I am a researcher interested in:
+# Hi! My name is Michael
+
+### I am a researcher interested in:
 
 - Multisensory Integration
 - Body Boundary Perception
