@@ -2,11 +2,11 @@
 
 ### I'm an experimental researcher primarily interested in:
 
-- Multisensory Integration
-- Body Boundary Perception
+- Multisensory integration
+- Body boundary perception
 - Embodiment
 - Psychophysics
-- Prediction Error
+- Prediction error
 - Neural correlates of consciousness
 - Atypical sensory processing disorders (like autism and schizophrenia)
 
