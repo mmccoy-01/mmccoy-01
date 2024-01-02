@@ -1,6 +1,6 @@
 # Hi! My name is Michael.
 
-### I am a researcher interested in:
+### I'm an experimental researcher primarily interested in:
 
 - Multisensory Integration
 - Body Boundary Perception
